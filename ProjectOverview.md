@@ -21,7 +21,9 @@ The interface would conclude by requesting the client to implement the proposal 
 ## Future Enhancements
 
 -Incorporate additional predictive algorithms utilizing additional modules/libraries, such as PyCaret and Dataiku, to gain a sense of what future asset values could be.
+
 -Offer additional cryptocurrency investments, and subject the cryptocurrency guidance to the sentiment analysis and RNN projections the stock universe is subjected to.
+
 -Utilize algorithmic trading to implement and manage investment guidance.
 
 ## Parameters
@@ -39,8 +41,8 @@ To develop the investment portfolio, we will begin with a stock ‘universe’ o
 
 ## RTQ Scoring:
 
-*Very Aggressive - 14% Stock, 5% Crypto allocation of Investable Assets
-*Aggressive - 12% Stock, 4% Crypto allocation of Investable Assets
-*Moderate - 10% Stock, 3% Crypto allocation of Investable Assets
-*Conservative - 5% Stock, 2% Crypto allocation of Investable Assets
-*Very Conservative - 2% Stock, 1% Crypto allocation of Investable Assets
+### Very Aggressive - 14% Stock, 5% Crypto allocation of Investable Assets
+### Aggressive - 12% Stock, 4% Crypto allocation of Investable Assets
+### Moderate - 10% Stock, 3% Crypto allocation of Investable Assets
+### Conservative - 5% Stock, 2% Crypto allocation of Investable Assets
+### Very Conservative - 2% Stock, 1% Crypto allocation of Investable Assets
