@@ -1,2 +1,3 @@
 # Investing Advisor for Rookies
-Advisory for Non traditional assets investing for investors that are new to Crypto and NFTS
+Investment education service for investors new to retail investing.
+Please refer to ProjectOverview for a full description
